@@ -3,7 +3,7 @@
 
 Minicraft+ is a modded version of Minicraft that adds many more features to the original version. The original Minicraft game was made by Alireza Hosinipoor(AliMc2021) in the Ludum Dare 22 contest.
 
-Check the [releases](https://github.com/ali0discord/minicraft-plus-/releases) page to download the latest version, or older versions.
+Check the [releases](https://github.com/ali0discord/minicraft-plus/releases) page to download the latest version, or older versions.
 
 ## Major features
 * More game modes, including:
